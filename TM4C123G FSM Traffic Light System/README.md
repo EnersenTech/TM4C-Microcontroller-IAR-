@@ -13,3 +13,5 @@ The goal is to maximize traffic flow, minimize waiting time at a red light, and 
 <h3>demo</h3>
 <img src="https://user-images.githubusercontent.com/109411385/210312733-51ecf5a6-5b84-4173-b37f-b280d0f5ad45.gif" width=600/>
 
+<h3>reference</h3>
+http://users.ece.utexas.edu/~valvano/Volume1/E-Book/C10_FiniteStateMachines.htm
